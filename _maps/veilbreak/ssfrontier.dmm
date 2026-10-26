@@ -33629,7 +33629,7 @@
 /turf/open/floor/iron/freezer,
 /area/station/medical/cryo)
 "qTP" = (
-/obj/machinery/atmospherics/components/unary/portables_connector/visible,
+/obj/effect/turf_decal/bot,
 /obj/structure/extinguisher_cabinet/directional/west,
 /turf/open/floor/iron/dark,
 /area/station/science/ordnance/storage)
@@ -87584,9 +87584,9 @@ ccs
 sWu
 hNA
 ffr
-fhK
-fhK
 qTP
+fhK
+vJp
 ser
 vNd
 mjd
